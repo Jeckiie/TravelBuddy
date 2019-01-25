@@ -1,0 +1,87 @@
+.imglogo
+{
+    width: 100px;
+    height: 100px;
+    
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+header
+{
+    text-align: center;
+}
+
+.dinoimg
+{
+    width: 150px;
+    height: 150px;
+}
+
+.stegoimg
+{
+    width: 200px;
+    height: 150px;
+}
+
+body 
+{
+    width: 90%;
+    max-width: 900px;
+    margin: 2em auto;
+    font: .9em/1.2 Arial, Helvetica, sans-serif;
+}
+.kontejner > header,article {
+    padding: 3px;
+    border: 1px solid rgb(0, 255, 0);
+}
+.kontejner 
+{
+    display: grid;
+    grid-template-areas:
+    "header header header header header header"
+    "trex trex brachiosaurus brachiosaurus triceratops triceratops"
+    "trex trex brachiosaurus brachiosaurus triceratops triceratops"
+    "velociraptor velociraptor stegosaurus stegosaurus ankylosaurus ankylosaurus"
+    "velociraptor velociraptor stegosaurus stegosaurus ankylosaurus ankylosaurus";
+    grid-auto-rows: minmax(100px, auto);
+    grid-gap: 5px;
+}
+header 
+{
+    grid-area: header;
+    align-self: center;
+}
+.trex
+{
+    grid-area: trex;
+    text-align: center;
+}
+.brachiosaurus
+{
+    grid-area: brachiosaurus;
+    text-align: center;
+}
+.triceratops
+{
+    grid-area: triceratops;
+    text-align: center;
+}
+.velociraptor
+{
+    grid-area: velociraptor;
+    text-align: center;
+}
+.stegosaurus
+{
+    grid-area: stegosaurus;
+    text-align: center;
+}
+.ankylosaurus
+{
+    grid-area: ankylosaurus;
+    text-align: center;
+}
