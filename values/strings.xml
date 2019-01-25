@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">TravelBuddy</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dokumenti">Dokumenti</string>
+    <string name="higijena">Higijena</string>
+    <string name="ljetna_odjeca">Ljetna odjeća</string>
+    <string name="zimska_odjeca">Zimska odjeća</string>
+    <string name="elektronika">Elektronika</string>
+    <string name="kozmetika">Kozmetika</string>
+    <string name="add_button">Add Button</string>
+    <string name="section_icon">Section Icon</string>
+    <string name="moja_lista">Moja lista</string>
+    <string name="delete_button">delete button</string>
+    <string name="naziv_nove_stavke">Naziv nove stavke:</string>
+    <string name="dodaj">Dodaj</string>
+    <string-array name="documents">
+        <item>Putovnica</item>
+        <item>Osobna iskaznica</item>
+        <item>Bankovna kartica</item>
+        <item>Studentska iskaznica</item>
+        <item>Vozačka dozvola</item>
+        <item>Novac</item>
+        <item>Autobusna karta</item>
+        <item>Avionska karta</item>
+    </string-array>
+    <string-array name="summer_clothes">
+        <item>Majica kratkih rukava</item>
+        <item>Sunčane naočale</item>
+        <item>Šorc</item>
+        <item>Stopalice</item>
+        <item>Haljina</item>
+        <item>Suknja</item>
+        <item>Patike</item>
+        <item>Papuče</item>
+    </string-array>
+    <string-array name="winter_clothes">
+        <item>Majica dugih rukava</item>
+        <item>Rukavice</item>
+        <item>Zimska kapa</item>
+        <item>Hlače</item>
+        <item>Zimske čarape</item>
+        <item>Zimske cipele</item>
+        <item>Duge gaće</item>
+        <item>Pidžama</item>
+    </string-array>
+    <string-array name="hygiene">
+        <item>Četkica za zube</item>
+        <item>Kaladont</item>
+        <item>Fen</item>
+        <item>Češalj</item>
+        <item>Gel za kosu</item>
+        <item>Štapići za uši</item>
+        <item>Pjena za brijanje</item>
+        <item>Parfem</item>
+    </string-array>
+    <string-array name="electronics">
+        <item>Punjač za mobitel</item>
+        <item>Mobitel</item>
+        <item>Slušalice</item>
+        <item>Punjač za laptop</item>
+        <item>Laptop</item>
+        <item>Miš</item>
+        <item>HDMI</item>
+        <item>USB</item>
+    </string-array>
+    <string-array name="cosmetics">
+        <item>Puder</item>
+        <item>Maskara</item>
+        <item>Ruž</item>
+        <item>Pinceta</item>
+        <item>Rumenilo</item>
+        <item>Olovka za oči</item>
+        <item>Korektor</item>
+        <item>Lak za nokte</item>
+    </string-array>
+
+</resources>
